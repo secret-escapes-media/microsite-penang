@@ -17,6 +17,14 @@
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; }
   }
+  &--white {
+    color: $q-purple;
+    background-color: rgba($white,.75);
+    &:hover { background-color: rgba($white,.95); }
+  }
+  &--purple { background-color: $q-purple;
+    &:hover { background-color: darken($q-purple,10); }
+  }
   &--outline {
     color: inherit;
     &:before {
@@ -36,8 +44,17 @@
   &--outline-orange {
     &:before { border-color: $orange; }
     &:hover {
+      color: $white;
       background-color: $orange;
       &:before { border-color: $orange; }
+    }
+  }
+  &--outline-purple {
+    &:before { border-color: $q-purple; }
+    &:hover {
+      color: $white;
+      background-color: $q-purple;
+      &:before { border-color: $q-purple; }
     }
   }
 }

@@ -1,1 +1,60 @@
 // general styles for the project that wouldn't be a reuseable component
+
+.width--title { max-width: 530px; }
+
+.qatar {
+  &__top {
+    position: relative;
+    color: $white;
+    background-image: url('../img/content/flights/bg.jpg');
+    background-color: $q-purple;
+    @include background-attributes;
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: $z-content;
+      display: block;
+      background-color: rgba(#212c42,.2);
+      @include bp($xxxl){ display: none; }
+    }
+    &-content{
+      position: relative;
+      z-index: $z-content-upper;
+      padding-top: $s12;
+      padding-bottom: $s11;
+    }
+    &-wave {
+      position: relative;
+      z-index: $z-content-upper;
+      display: block;
+      width: 100%;
+      max-height: 40px;
+      padding-top: 6.5%;
+      background-image: url('../img/content/flights/waves-beige.svg');
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      transform: translateY(2px);
+    }
+  }
+  &__bottom {
+    position: relative;
+    background: rgb(222,228,227);
+    background: linear-gradient(180deg, rgba(222,228,227,1) 0%, rgba(237,232,212,1) 100%);
+    &-wave {
+      display: block;
+      width: 100%;
+      max-height: 40px;
+      padding-top: 6.5%;
+      background-image: url('../img/content/flights/waves.svg');
+      background-position: bottom center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      transform: translateY(2px);
+    }
+  }
+}

@@ -15,8 +15,12 @@
       padding-top: 2px;
     }
   }
-  &--partner { // max-width for this is about 150x46px
+  &--qatar { // max-width for this is about 150x46px
     max-width: 120px;
     &-sm { max-width: 100px; }
+  }
+  &--penang { // max-width for this is about 150x46px
+    max-width: 100px;
+    &-sm { max-width: 85px; }
   }
 }

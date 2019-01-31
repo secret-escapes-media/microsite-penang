@@ -22,10 +22,14 @@
     z-index: $z-content-upper;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     color: $white;
-    text-align: center;
-    @include page-padding;
+    padding-left: $s1;
+    padding-right: $s1;
+    @include bp($md){
+      padding-left: $s2;
+      padding-right: $s2;
+    }
   }
   &__bg-overlay {
     position: absolute;
