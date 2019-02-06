@@ -5,10 +5,10 @@ client:
   link: https://www.qatarairways.com/en-gb/homepage.html
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  A thrilling fusion of Southeast Asian cultures, Penang is the sparkling gem of Malaysia’s northwest coast. From the bustling night markets, breathtaking temples, traditional shophouses and foodie delights of Georgetown, to the sprawling rainforests and aquatic wonders of the island’s natural habitats - fly with Qatar Airways to the ‘Pearl of the Orient’, where a menagerie of hidden treasures are just waiting to be found...
 
 # file paths
-url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+url:     "https://www.secretescapes.com" # the base hostname & protocol for your site
 baseurl: "/penang" # the subpath of your site, e.g. /blog/
 img:     "/penang/_assets/img"
 css:     "/penang/_assets/css"

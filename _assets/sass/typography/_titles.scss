@@ -34,12 +34,16 @@
 
   // custom content headline
   font-family: $font-title-01;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: .1em;
   line-height: 1.1;
   text-transform: uppercase;
   font-size: $s3;
-  @include bp($lg){ font-size: $s4; }
+  &--lg { font-size: $s4; }
+  @include bp($lg){
+    font-size: $s4;
+    &--lg { font-size: $s5; }
+  }
 
 }
 
@@ -100,8 +104,8 @@
   font-family: $font-qatar;
   font-weight: 500;
   line-height: 1;
-  font-size: $s6;
-  &--lg { font-size: $s8; }
+  font-size: $s5;
+  &--lg { font-size: $s7; }
 }
 
 .qatar-sub-title {

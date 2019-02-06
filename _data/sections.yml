@@ -1,54 +1,25 @@
 - id: culture
   title: Culture & Heritage
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est ullam tenetur, nesciunt vitae aperiam. Consequuntur, veritatis. Voluptas vero laudantium earum ut impedit, facere maiores est, aperiam enim, porro cumque, assumenda. Eligendi ducimus atque similique itaque eius, recusandae provident, culpa odit, nam expedita et quidem assumenda amet, quaerat? Obcaecati veritatis suscipit eius! Expedita, fuga vel totam porro nemo recusandae. Saepe iste, facilis dolore, tempora aperiam nisi.
+  description: "The city of Georgetown: a stimulating cocktail of historic buildings and contemporary art; an architectural gem brought to life by the modern, cosmopolitan pulse of its people. Between the ancient streets of Old Town, the unspoilt grandeur of heritage sites like the Khoo Khongsi, and the reflective splendour of the many religious buildings, the culture and heritage of Georgetown is woven deep into its very fabric."
 
   pois:
     items:
 
-      - id: one-first-poi
-        title: Street Art
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: old-town
+        title: Old Town
+        description: Listed as a UNESCO World Heritage Site, the Old Town district of Georgetown is a living museum - a dynamic mixture of Eastern and Western influences. Due to its history as an international port for the British East India Company, the district has become an architectural melting pot of rustic Chinese shophouses and colonial-era buildings. Wander around on foot to experience everything that Old Town has to offer, from the eye-popping buildings to the delightful street-food, you’ll experience the rich heritage and diversity of the island first-hand.
 
-      - id: one-second-poi
-        title: Heritage Zones
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: one-third-poi
+      - id: places-of-worship
         title: Places of Worship
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        description: Muslim, Hindu, Buddhist, Christian - the multi-ethnic society of Penang is reflected in the vast array of breathtaking sacred buildings. From the blissful Kek Lok Si Temple, located in the misty hills overlooking Georgetown, to the Wat Chayamangkalaram Thai temple, famous for its enormous ‘Reclining Buddha’, to the Sri Maha Mariamman Temple, with its towering, multicoloured sculpture of the Hindu Gods and Goddesses - these religious landmarks are places of exquisite, pensive beauty. Take a walk through Jalan Masjid Kapitan Keling, known otherwise as the ‘Street of Harmony’, where you’ll find many of them.
 
-      - id: one-fourth-poi
-        title: Penang Stories
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: street-art
+        title: Street Art
+        description: The streets of Georgetown are flooded with the work of Lithuanian artist, Ernest Zacharevic, whose vibrant murals adorn the walls of various shophouses throughout Georgetown. With their charismatic characters, explosive colours and 3D effects, Zacharevic’s murals have become vital symbols of the city’s cultural heritage, and inspired a wave of new works from Penang’s emerging arts scene. For the full experience, take the time to explore the city in search of them. From Indian boatmen to giant cats, these artworks reveal the diverse, multicultural heart of Georgetown - come see for yourself.
 
-
-
-################################################################################
-
-
-
-- id: nature
-  title: Nature & Adventure
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est ullam tenetur, nesciunt vitae aperiam. Consequuntur, veritatis. Voluptas vero laudantium earum ut impedit, facere maiores est, aperiam enim, porro cumque, assumenda. Eligendi ducimus atque similique itaque eius, recusandae provident, culpa odit, nam expedita et quidem assumenda amet, quaerat? Obcaecati veritatis suscipit eius! Expedita, fuga vel totam porro nemo recusandae. Saepe iste, facilis dolore, tempora aperiam nisi.
-
-  pois:
-    items:
-
-      - id: two-first-poi
-        title: Recreation
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-second-poi
-        title: Parks & Gardens
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-third-poi
-        title: Adventure & Nature
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-fourth-poi
-        title: Penang Stories
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: museums-historic-attractions
+        title: Museums & Historic Attractions
+        description: The story of Penang, in many ways, reflects that of Malaysia itself - a long, rich and tumultuous history that’s there to be discovered. Learn of Penang’s Peranakan heritage in the green-hued Peranakan Mansion; discover the legacy of the Leong San Tong family at the Khoo Khongsi complex, home to perhaps the grandest Chinese clan house in South East Asia; or uncover the horrific history of the Japanese occupation in the Penang War Museum.
 
 
 
@@ -58,23 +29,52 @@
 
 - id: food
   title: Food & Lifestyle
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore est ullam tenetur, nesciunt vitae aperiam. Consequuntur, veritatis. Voluptas vero laudantium earum ut impedit, facere maiores est, aperiam enim, porro cumque, assumenda. Eligendi ducimus atque similique itaque eius, recusandae provident, culpa odit, nam expedita et quidem assumenda amet, quaerat? Obcaecati veritatis suscipit eius! Expedita, fuga vel totam porro nemo recusandae. Saepe iste, facilis dolore, tempora aperiam nisi.
+  description: Known far and wide as the ’Culinary Capital of Malaysia’, the multicultural diversity of the region has resulted in a magical array of incredible food. Follow your tastebuds to the nearest hawker centre, where the local colours of Penangite cuisine can be seen for all their rugged splendour. For a more specialised affair, meanwhile, head to the Little India or Chinatown districts of Georgetown, where the authentic tastes of the East will have you in a frenzy.
 
   pois:
     items:
 
-      - id: three-first-poi
-        title: Assam Laksa
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: hawker-centres
+        title: Hawker Centres
+        description: "No matter where you are in Penang, you’ll never stray too far from a Hawker Centre. These hubs of gastronomic delight are mainstays of local Malaysian culture: open-air, roadside food courts with stalls serving up everything from South Asian curries to local delicacies like Nasi Goreng and Char Kway Teow. Georgetown, especially, is full of them. For an exceptional experience, try the hawker centres on New Lane and Gurney Drive - expect to sit on plastic tables and chairs, happy and content amid the buzz of your fellow diners."
 
-      - id: three-second-poi
-        title: Char Koay Teow
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: chinatown
+        title: Chinatown
+        description: The heritage shophouses of Georgetown are famous for more than just their architecture - they boast the finest Chinese cuisine this side of Malaysia. The streets come alive at night with carts selling noodles, dumplings and satay skewers, while the local restaurants teem with hungry diners. For a safe bet, head to Tek Sen, a local favourite, famed for its double roasted chilli pork and flavoursome claypots, or to the De Tai Tong Cafe for a spot of mouthwatering Dim Sum.
 
-      - id: three-third-poi
-        title: Nyonya Kuih & Dishes
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: night-markets
+        title: Night Markets
+        description: A favourite amongst travellers, the night markets of Penang are lively affairs, famous for their cheap goods and makeshift aesthetics. For a deep-dive into the heart of it, try the night market near the coast of Batu Ferringhi - a long and eclectic strip with over a kilometre’s worth of stalls. Expect to find clothes, paintings, bags, watches, handicrafts, and just about anything else you can think of. Street food, as always, is delicious and aplenty, so be sure to settle down with a bowl of fried Mee Goreng after a night of hard haggling.
 
-      - id: three-fourth-poi
-        title: Ais Tingkap
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: little-india
+        title: Little India
+        description: The Little India district of Georgetown is a must for any aspiring foodie. Head first for the road-side stalls selling delicious assortments of fried snacks - samosas, pakoras, onion bhajis and much else - before heading to one of the local restaurants for some banana leaf rice and curry - a colourful selection of curries served with white rice, and resting on a bright green canvas of banana leaf. While you’re here, too, make sure to try a glass of Teh Tarik, a Southeast Asian delicacy, otherwise known as “pulled tea” due to the way it’s thrown in long streams from glass to glass in preparation.
+
+
+
+################################################################################
+
+
+
+- id: nature
+  title: Nature & Adventure
+  description: From tree-topped jungle treks to unspoilt beach retreats - the natural wonders of Penang are there to be uncovered. Deep dive to the coral gardens of Palau Payer for unmatched vistas of tropical sea life, sunbathe on the white shores of Batu Ferringhi beach, or hike through the ancient rainforests of Penang National Park - each guarantees the perfect escape into nature.
+
+  pois:
+    items:
+
+      - id: penang-national-park
+        title: Penang National Park
+        description: "The tropical wilderness of Penang - known for its canopies of ancient trees, mangrove swamps and deep-green vegetation - is expressed most wonderfully in this radiant national park. Consisting of around 25 square kilometres of dense rainforest, the park is home to a diversity of stunning wildlife: with flying lemurs, long-tailed macaques, wild boars and white-bellied sea eagles among the fauna to be seen up close. There’s a good selection of trails to take, depending on your preference; attempt a hike up the steep jungle paths, or head off in search of the park’s hidden beaches."
+
+      - id: snorkelling
+        title: Snorkelling
+        description: Escape via speedboat on a day-trip to the breathtaking islands of Pulau Payer, an uninhabited national marine park off the coast of Penang. Famed for its snorkelling and scuba diving opportunities, the park’s unspoilt, crystalline waters are home to vast gardens of coral and tropical sea life. Take a tour of the park’s various islands, immersing yourself in their kaleidoscopic underwater worlds - a truly unforgettable experience.
+
+      - id: beaches
+        title: Beaches
+        description: No trip to Penang would be complete without a visit to one of its gorgeous white-sand beaches. The most popular of these - with its luxury hotels, restaurants and water-sport activities - is Batu Ferringhi, a long stretch of palm-lined sands and crystal clear waters. For a more remote experience, try Monkey Beach, a secluded cove in the jungle of the National Park, famous for its lively population of macaques monkeys and spectacular, red-hued sunsets.
+
+      - id: wildlife-centres
+        title: Wildlife Centres
+        description: The bird and butterfly conservation centres each offer the opportunity of seeing and learning about the creatures up close. A museum of nature, the Penang Butterfly Farm boasts around 120 different species; a multi-coloured spectacle of free-flying papillons. Elsewhere, on the mainland, the Bird Park houses more than 300 different species of birds for breeding and conservation purposes, including hornbills, macaws and eagles.
