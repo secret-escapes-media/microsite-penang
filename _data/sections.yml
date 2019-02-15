@@ -18,7 +18,7 @@
         description: The streets of Georgetown are flooded with the work of Lithuanian artist, Ernest Zacharevic, whose vibrant murals adorn the walls of various shophouses throughout Georgetown. With their charismatic characters, explosive colours and 3D effects, Zacharevic’s murals have become vital symbols of the city’s cultural heritage, and inspired a wave of new works from Penang’s emerging arts scene. For the full experience, take the time to explore the city in search of them. From Indian boatmen to giant cats, these artworks reveal the diverse, multicultural heart of Georgetown - come see for yourself.
 
       - id: museums-historic-attractions
-        title: Museums & Historic Attractions
+        title: Museums & Historic Attrac&shy;tions
         description: The story of Penang, in many ways, reflects that of Malaysia itself - a long, rich and tumultuous history that’s there to be discovered. Learn of Penang’s Peranakan heritage in the green-hued Peranakan Mansion; discover the legacy of the Leong San Tong family at the Khoo Khongsi complex, home to perhaps the grandest Chinese clan house in South East Asia; or uncover the horrific history of the Japanese occupation in the Penang War Museum.
 
 
@@ -39,7 +39,7 @@
         description: "No matter where you are in Penang, you’ll never stray too far from a Hawker Centre. These hubs of gastronomic delight are mainstays of local Malaysian culture: open-air, roadside food courts with stalls serving up everything from South Asian curries to local delicacies like Nasi Goreng and Char Kway Teow. Georgetown, especially, is full of them. For an exceptional experience, try the hawker centres on New Lane and Gurney Drive - expect to sit on plastic tables and chairs, happy and content amid the buzz of your fellow diners."
 
       - id: chinatown
-        title: Chinatown
+        title: China&shy;town
         description: The heritage shophouses of Georgetown are famous for more than just their architecture - they boast the finest Chinese cuisine this side of Malaysia. The streets come alive at night with carts selling noodles, dumplings and satay skewers, while the local restaurants teem with hungry diners. For a safe bet, head to Tek Sen, a local favourite, famed for its double roasted chilli pork and flavoursome claypots, or to the De Tai Tong Cafe for a spot of mouthwatering Dim Sum.
 
       - id: night-markets
@@ -68,7 +68,7 @@
         description: "The tropical wilderness of Penang - known for its canopies of ancient trees, mangrove swamps and deep-green vegetation - is expressed most wonderfully in this radiant national park. Consisting of around 25 square kilometres of dense rainforest, the park is home to a diversity of stunning wildlife: with flying lemurs, long-tailed macaques, wild boars and white-bellied sea eagles among the fauna to be seen up close. There’s a good selection of trails to take, depending on your preference; attempt a hike up the steep jungle paths, or head off in search of the park’s hidden beaches."
 
       - id: snorkelling
-        title: Snorkelling
+        title: Snorkel&shy;ling
         description: Escape via speedboat on a day-trip to the breathtaking islands of Pulau Payer, an uninhabited national marine park off the coast of Penang. Famed for its snorkelling and scuba diving opportunities, the park’s unspoilt, crystalline waters are home to vast gardens of coral and tropical sea life. Take a tour of the park’s various islands, immersing yourself in their kaleidoscopic underwater worlds - a truly unforgettable experience.
 
       - id: beaches

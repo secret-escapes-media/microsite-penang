@@ -74,7 +74,7 @@
               <div class="space--xs"></div>
               <p class="text--xxl text--normal width--qatar">Known for its award-winning service, Qatar Airways offers a range of cabins- from Economy to Business and First Class- and flies from a number of airports across the UK, including Heathrow, Gatwick, Cardiff, Birmingham, Manchester and Edinburgh.</p>
               <div class="space--md"></div>
-              <a href="https://www.qatarairways.com/en-gb/homepage.html?cid=BAGB666480" class="btn btn--lg btn--white">See Flights</a>
+              <a id="track-qatar-flights-btn-top" href="https://www.qatarairways.com/en-gb/homepage.html?cid=BAGB666480" class="btn btn--lg btn--white">See Flights</a>
             </div>
           </div>
           <div class="qatar__top-wave"></div>
@@ -85,19 +85,19 @@
               <div class="bob{% cycle '', ' bob--swap' %}">
                 <div class="bob__img">
                   <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/flights/{{feature.id}}.jpg');">
-                    <a class="bg-img__link" href="{{feature.link}}"></a>
+                    <a id="track-qatar-{{feature.id}}-img" class="bg-img__link" href="{{feature.link}}"></a>
                   </div>
                 </div>
                 <div class="bob__text">
                   <h2 class="qatar-title">{{feature.title}}</h2>
                   <p class="text--lg">{{feature.description}}</p>
                   <div class="space--md"></div>
-                  <a href="{{feature.link}}" class="btn btn--sm btn--outline btn--outline-purple">Find Out More</a>
+                  <a id="track-qatar-{{feature.id}}-btn" href="{{feature.link}}" class="btn btn--sm btn--outline btn--outline-purple">Find Out More</a>
                 </div>
               </div>
             {% endfor %}
             <div class="space--xxl text--center">
-              <a href="https://www.qatarairways.com/en-gb/homepage.html?cid=BAGB666480" class="btn btn--lg btn--purple">See Flights</a>
+              <a id="track-qatar-flights-btn-bottom" href="https://www.qatarairways.com/en-gb/homepage.html?cid=BAGB666480" class="btn btn--lg btn--purple">See Flights</a>
             </div>
           </div>
           <div class="qatar__bottom-wave"></div>

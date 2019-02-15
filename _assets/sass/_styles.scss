@@ -19,7 +19,7 @@
       bottom: 0;
       z-index: $z-content;
       display: block;
-      background-color: rgba(#212c42,.2);
+      background-color: rgba(#212c42,.33);
       @include bp($xxxl){ display: none; }
     }
     &-content{
